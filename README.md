@@ -47,6 +47,10 @@ Para o bom funcionamento do projeto, é importante que todas essas bibliotecas e
 
 Abaixo, segue link do video de demonstração do projeto em funcionamento.
 
+## Conclusão
+
+Com este projeto temos a consolidação de nosso conhecimento em machine learning, treinamento de redes neurais, exploração de bases de dados, análise e extração de insights, elaboração de sistemas com ferramentas AWS e desenvolvimento de plataformas de vizualização de todos esses resultados. 
+
 - <a href="https://www.">Youtube</a>
 
 ## 📋 Licença
