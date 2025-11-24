@@ -51,7 +51,7 @@ Abaixo, segue link do video de demonstração do projeto em funcionamento.
 
 Com este projeto temos a consolidação de nosso conhecimento em machine learning, treinamento de redes neurais, exploração de bases de dados, análise e extração de insights, elaboração de sistemas com ferramentas AWS e desenvolvimento de plataformas de vizualização de todos esses resultados. 
 
-- <a href="https://https://youtu.be/hmHfrIWFPXk">Youtube</a>
+- <a href="https://youtu.be/hmHfrIWFPXk">Youtube</a>
 
 ## 📋 Licença
 
